@@ -65,7 +65,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-First clone the project and let STS4 build its dependecies. Maven --> Update Project -->Run as SpringBoot
+First, clone the project and let STS4 build its dependencies. Maven --> Update Project -->Run as SpringBoot
 
 1. Clone the repo
    ```sh
@@ -73,53 +73,3 @@ First clone the project and let STS4 build its dependecies. Maven --> Update Pro
 priyankapatel041/swift-book-7091.git
    ```
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<h2>ER Diagram</h2>
-<img src = "https://user-images.githubusercontent.com/58816804/237027318-c2b00d15-c863-42ff-8cba-a2d5cd588c5a.png"/>
-
-<h2>Related Interfaces</h2>
-<img  src ="https://user-images.githubusercontent.com/58816804/237030373-09c1e1b7-9e9e-4b79-9481-150c7c35f518.jpeg"/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Modules
-This Application Consist 7 Modules
-
-- Vaccine Registration Module
-- Booking Appointment Module.
-- Vaccination Center Module.
-- Vaccine Module.
-- Vaccine Inventory Module.
-- Search Module.
-
-<br/>
-<div align = "center">
-<h1>Spring Security Working Map</h1>
-<img src = "https://github.com/
-priyankapatel041/swift-book-7091/assets/58816804/a4979ead-b892-4bed-ab8b-4c02dd0076a4"/>
-<br/>
-  </div>
-
-
-
-<h1></h1>
-## Roadmap ## <br/>
- - [✅] Made ER Diagram <br/>
- - [✅] Added POJO classes <br/>
- - [✅] Made mappings <br/>
- - [✅] Designed Database using MYSQL <br/>
- - [✅] Added Additional Exceptions and Dependencies.<br/>
- - [✅] Added "signUp" logics with Controlller.<br/>
- - [✅] Added "Login" logics with Controlller.<br/>
- - [✅] Added "ID" logics with Controlller.<br/>
- - [✅] Tested Using Postman<br/>
- - [✅] Tested Using Swagger<br/>
-
-## Acknowledgments
-I am always looking for ways to improve our Application, and I would like to request your feedback on our project. Your opinions matter for us and your feedback is used to improve how we work and ensure we deliver a consistently high-quality service.
-
-Thank You.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
